@@ -1,0 +1,25 @@
+Cluser 1: 23 30 35 45 46 47 67
+Cluser 2: 2 53 57 61 65
+Cluser 3: 38 52 59
+Cluser 4: 79
+Cluser 5: 16 56
+Cluser 6: 15 66 76 81 86 90
+Cluser 7: 3 26
+Cluser 8: 9 44 49
+Cluser 9: 14 33 40 50 83 84 91
+Cluser 10: 31
+Cluser 11: 11 22 32 70
+Cluser 12: 5 43
+Cluser 13: 10 19 27 54 55 73 78 85 88 89
+Cluser 14: 69
+Cluser 15: 21
+Cluser 16: 6 12 13 20 41 75 77 93 97
+Cluser 17: 24 29 34 39 51 58 63
+Cluser 18: 28 37 68 71 72 92
+Cluser 19: 25 42 100
+Cluser 20: 7 62 87
+Cluser 21: 1 8 17 94 98 99
+Cluser 22: 18 74
+Cluser 23: 80
+Cluser 24: 4 60 64
+Cluser 25: 36 48 82 95 96

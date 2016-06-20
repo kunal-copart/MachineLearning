@@ -1,0 +1,23 @@
+part3 contains the all the files 
+
+You need to reach to  part3 in directory  path to run and compile the program.
+
+Compile the file:
+
+javac ImageClust.java
+
+To Run the file :
+
+java ImageClust images 3 clusteredImages\
+
+
+I have used K-means clustering using RGB value of the image.
+
+I assign the RGB value of each pixel to cluster .
+
+It will contain the combination of all the cluster but you can see that all the different cluster have the same
+RGB value.
+
+
+
+

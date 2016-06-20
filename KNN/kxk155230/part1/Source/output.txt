@@ -1,0 +1,85 @@
+Cluser 1: 6
+Cluser 2: 60
+Cluser 3: 89
+Cluser 4: 55
+Cluser 5: 5
+Cluser 6: 40 84
+Cluser 7: 87
+Cluser 8: 83
+Cluser 9: 95 96
+Cluser 10: 72
+Cluser 11: 43
+Cluser 12: 66
+Cluser 13: 45
+Cluser 14: 24
+Cluser 15: 31 79
+Cluser 16: 97
+Cluser 17: 9
+Cluser 18: 8
+Cluser 19: 98
+Cluser 20: 85
+Cluser 21: 18
+Cluser 22: 42
+Cluser 23: 92
+Cluser 24: 20
+Cluser 25: 15
+Cluser 26: 41
+Cluser 27: 68
+Cluser 28: 34
+Cluser 29: 22
+Cluser 30: 64
+Cluser 31: 3
+Cluser 32: 19
+Cluser 33: 32 52
+Cluser 34: 35
+Cluser 35: 11
+Cluser 36: 4
+Cluser 37: 30
+Cluser 38: 27
+Cluser 39: 39
+Cluser 40: 53 57 65
+Cluser 41: 70
+Cluser 42: 71
+Cluser 43: 10
+Cluser 44: 47
+Cluser 45: 13
+Cluser 46: 67
+Cluser 47: 99
+Cluser 48: 17
+Cluser 49: 51
+Cluser 50: 2 61
+Cluser 51: 94
+Cluser 52: 88
+Cluser 53: 50
+Cluser 54: 21 74
+Cluser 55: 48
+Cluser 56: 1
+Cluser 57: 37
+Cluser 58: 91
+Cluser 59: 59
+Cluser 60: 58
+Cluser 61: 76 90
+Cluser 62: 7
+Cluser 63: 81
+Cluser 64: 12
+Cluser 65: 62
+Cluser 66: 38
+Cluser 67: 46 86
+Cluser 68: 75
+Cluser 69: 23
+Cluser 70: 73
+Cluser 71: 69 80
+Cluser 72: 100
+Cluser 73: 28
+Cluser 74: 25
+Cluser 75: 14
+Cluser 76: 77
+Cluser 77: 29 63
+Cluser 78: 36 82
+Cluser 79: 44 49
+Cluser 80: 26
+Cluser 81: 93
+Cluser 82: 16 56
+Cluser 83: 54
+Cluser 84: 78
+Cluser 85: 33
