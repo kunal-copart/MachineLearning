@@ -1,8 +1,8 @@
 
 
 
-/* Author : Prashant Prakash
- * created_date: 26th Jan 2015 
+/* Author : kunal krishna
+ * created_date: 26th Jan 2016 
  * Description:  Node class for Decision Tree 
  * */
 public class DTNode implements Cloneable {
