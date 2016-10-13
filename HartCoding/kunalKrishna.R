@@ -88,5 +88,4 @@ prediction <- predict(train_model, test_data)
 prediction
 
 ## to do part
-###need to count the number of words in each row, times up have only 5 min so leaving it, I can 
-## do that if I would have got more time
+###need to count the number of words in each row,
